@@ -1,0 +1,7 @@
+C:\Users\lrrsa\source\repos\Digits_Count\Digits_Count\bin\Debug\Digits_Count.exe.config
+C:\Users\lrrsa\source\repos\Digits_Count\Digits_Count\bin\Debug\Digits_Count.exe
+C:\Users\lrrsa\source\repos\Digits_Count\Digits_Count\bin\Debug\Digits_Count.pdb
+C:\Users\lrrsa\source\repos\Digits_Count\Digits_Count\obj\Debug\Digits_Count.csprojAssemblyReference.cache
+C:\Users\lrrsa\source\repos\Digits_Count\Digits_Count\obj\Debug\Digits_Count.csproj.CoreCompileInputs.cache
+C:\Users\lrrsa\source\repos\Digits_Count\Digits_Count\obj\Debug\Digits_Count.exe
+C:\Users\lrrsa\source\repos\Digits_Count\Digits_Count\obj\Debug\Digits_Count.pdb

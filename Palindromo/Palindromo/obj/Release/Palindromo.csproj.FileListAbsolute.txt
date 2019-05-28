@@ -1,0 +1,7 @@
+C:\Users\lrrsa\source\repos\Palindromo\Palindromo\bin\Release\Palindromo.exe.config
+C:\Users\lrrsa\source\repos\Palindromo\Palindromo\bin\Release\Palindromo.exe
+C:\Users\lrrsa\source\repos\Palindromo\Palindromo\bin\Release\Palindromo.pdb
+C:\Users\lrrsa\source\repos\Palindromo\Palindromo\obj\Release\Palindromo.csprojAssemblyReference.cache
+C:\Users\lrrsa\source\repos\Palindromo\Palindromo\obj\Release\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\lrrsa\source\repos\Palindromo\Palindromo\obj\Release\Palindromo.exe
+C:\Users\lrrsa\source\repos\Palindromo\Palindromo\obj\Release\Palindromo.pdb

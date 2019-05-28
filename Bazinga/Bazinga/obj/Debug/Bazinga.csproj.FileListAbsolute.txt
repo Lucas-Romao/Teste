@@ -1,0 +1,7 @@
+C:\Users\lrrsa\source\repos\Bazinga\Bazinga\bin\Debug\Bazinga.exe.config
+C:\Users\lrrsa\source\repos\Bazinga\Bazinga\bin\Debug\Bazinga.exe
+C:\Users\lrrsa\source\repos\Bazinga\Bazinga\bin\Debug\Bazinga.pdb
+C:\Users\lrrsa\source\repos\Bazinga\Bazinga\obj\Debug\Bazinga.csprojAssemblyReference.cache
+C:\Users\lrrsa\source\repos\Bazinga\Bazinga\obj\Debug\Bazinga.csproj.CoreCompileInputs.cache
+C:\Users\lrrsa\source\repos\Bazinga\Bazinga\obj\Debug\Bazinga.exe
+C:\Users\lrrsa\source\repos\Bazinga\Bazinga\obj\Debug\Bazinga.pdb
